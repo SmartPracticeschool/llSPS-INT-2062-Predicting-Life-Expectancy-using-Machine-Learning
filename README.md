@@ -8,4 +8,3 @@ https://node-red-sexol.eu-gb.mybluemix.net/red/#flow/2354c6dc.c7574a
 the credentials are:
                   Username: NODE RED SEXOL
                   password: $yash1230
-Thanks!!
